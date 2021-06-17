@@ -42,6 +42,9 @@ Some of our members were completely new to HTML, CSS, and other front end techno
 
 We learned that when developing for a certain audience, it is important to always keep our audience in mind and see things from their perspective. This way we would be able to develop programs that truly cater to the target audience. We also learned that planning, visualizing, and strategizing before starting on the code is crucial. Any time spent on the preparation phase is not time wasted and will ultimately save us tremendous time and effort. We also felt that we were able to create a better and more appealing end product because of the time we spent planning and seeking to see things from our target audience's perspectives.
 
+## Website URL
+
+You can view the website using the link: https://suthir-s.github.io/Banking-Amigo/
 
 ## Authors
 
